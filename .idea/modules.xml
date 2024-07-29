@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" filepath="$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Projects.iml" filepath="$PROJECT_DIR$/Java Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" filepath="$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Search Algorithms/Search Algorithms.iml" filepath="$PROJECT_DIR$/Search Algorithms/Search Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sort Algorithms/Sort Algorithms.iml" filepath="$PROJECT_DIR$/Sort Algorithms/Sort Algorithms.iml" />
     </modules>
   </component>
 </project>
