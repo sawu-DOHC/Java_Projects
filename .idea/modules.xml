@@ -3,10 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract Classes and Interfaces/Abstract Classes and Interfaces.iml" filepath="$PROJECT_DIR$/Abstract Classes and Interfaces/Abstract Classes and Interfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inheritence and Polymorphism/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Inheritence and Polymorphism/Exception Handling/Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic Data Types/Generic Data Types.iml" filepath="$PROJECT_DIR$/Generic Data Types/Generic Data Types.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" filepath="$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Projects.iml" filepath="$PROJECT_DIR$/Java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" filepath="$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" />
     </modules>
   </component>
 </project>
