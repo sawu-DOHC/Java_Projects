@@ -4,8 +4,8 @@ public class SortAlgorithms {
 
     public static int[] BubbleSort_Ascending( int[] array ) {
 
-        int n = array.length;
-        for ( int maxElement = n - 1; maxElement > 0; maxElement-- ) {
+        int length = array.length;
+        for ( int maxElement = length - 1; maxElement > 0; maxElement-- ) {
 
             for (int index = 0; index < maxElement; index++) {
                 if (array[index] > array[index + 1]) {
