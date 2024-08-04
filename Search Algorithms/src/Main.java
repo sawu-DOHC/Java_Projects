@@ -13,13 +13,9 @@ public class Main {
 
 
         resultIndex = SearchAlgorithms.BinarySearch( numbers, 9);
-        System.out.println("Binary Search: Number found at index " + resultIndex );
-
-
-
+        System.out.println( "Binary Search: Number found at index " + resultIndex );
 
     }
-
 
 }
 
