@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Abstract Classes and Interfaces/Abstract Classes and Interfaces.iml" filepath="$PROJECT_DIR$/Abstract Classes and Interfaces/Abstract Classes and Interfaces.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Counting With Recursion/Counting With Recursion.iml" filepath="$PROJECT_DIR$/Counting With Recursion/Counting With Recursion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Exception Handling/Exception Handling.iml" filepath="$PROJECT_DIR$/Exception Handling/Exception Handling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Generic Data Types/Generic Data Types.iml" filepath="$PROJECT_DIR$/Generic Data Types/Generic Data Types.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" filepath="$PROJECT_DIR$/Inheritence and Polymorphism/Inheritence and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 Data Types/1 Data Types.iml" filepath="$PROJECT_DIR$/1 Data Types/1 Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 Generic Data Types/1 Generic Data Types.iml" filepath="$PROJECT_DIR$/1 Generic Data Types/1 Generic Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 Counting With Recursion/4 Counting With Recursion.iml" filepath="$PROJECT_DIR$/4 Counting With Recursion/4 Counting With Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Abstract Classes and Interfaces/7 Abstract Classes and Interfaces.iml" filepath="$PROJECT_DIR$/7 Abstract Classes and Interfaces/7 Abstract Classes and Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Inheritence and Polymorphism/7 Inheritence and Polymorphism.iml" filepath="$PROJECT_DIR$/7 Inheritence and Polymorphism/7 Inheritence and Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Lottery Game Data Management/7 Lottery Game Data Management.iml" filepath="$PROJECT_DIR$/7 Lottery Game Data Management/7 Lottery Game Data Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8 Search Algorithms/8 Search Algorithms.iml" filepath="$PROJECT_DIR$/8 Search Algorithms/8 Search Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8 Sort Algorithms/8 Sort Algorithms.iml" filepath="$PROJECT_DIR$/8 Sort Algorithms/8 Sort Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9 Exception Handling/9 Exception Handling.iml" filepath="$PROJECT_DIR$/9 Exception Handling/9 Exception Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Projects.iml" filepath="$PROJECT_DIR$/Java Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" filepath="$PROJECT_DIR$/Lottery Game Data Management/Lottery Game Data Management.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrome Detection/Palindrome Detection.iml" filepath="$PROJECT_DIR$/Palindrome Detection/Palindrome Detection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Search Algorithms/Search Algorithms.iml" filepath="$PROJECT_DIR$/Search Algorithms/Search Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sort Algorithms/Sort Algorithms.iml" filepath="$PROJECT_DIR$/Sort Algorithms/Sort Algorithms.iml" />
     </modules>
   </component>
 </project>
