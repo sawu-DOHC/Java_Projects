@@ -12,7 +12,7 @@ public class Main {
         int arraySize69 = 69;
         int arraySize35 = 35;
 
-        ArrayList<Ticket> Ticket_List = new ArrayList<Ticket>();//creating an array list of ticket objects that i will use to add ticket objects to
+        ArrayList<Ticket> Ticket_List = new ArrayList<Ticket>();//creating an array list of ticket objects that i will use to add Ticket objects to
 
 
         //defining the winning ticket
@@ -59,6 +59,7 @@ public class Main {
                         }
                     }
                 }
+
 
 
                 Util.updateFrequencyAndOverduenessNormalNumbers( normalNumbers, tempTicketNumbers, arraySize69);
