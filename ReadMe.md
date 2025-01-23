@@ -8,4 +8,4 @@
 8. Algorithms
 9. Error Handling
 10. Multithreading
-11. Networkingz
+11. Networking
